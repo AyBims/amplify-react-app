@@ -1,0 +1,14 @@
+{
+  "resourceName": "stamplifyapp01",
+  "policyUUID": "b32e9ac6",
+  "bucketName": "amplifyreactapp3ec8fff7d08549f58eac895da57f4789",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
